@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/PolicyAdministrationSystem/static/css/main.073c9b0a.css",
-    "main.js": "/PolicyAdministrationSystem/static/js/main.47b57a81.js",
+    "main.js": "/PolicyAdministrationSystem/static/js/main.b5026a1b.js",
     "static/js/787.f6fbed16.chunk.js": "/PolicyAdministrationSystem/static/js/787.f6fbed16.chunk.js",
     "static/media/car.svg": "/PolicyAdministrationSystem/static/media/car.f23f888bf1388735d80ba7ab3b869fcb.svg",
     "static/media/majesco-social-logo.png": "/PolicyAdministrationSystem/static/media/majesco-social-logo.0adc51e50723f55a8b4e.png",
     "index.html": "/PolicyAdministrationSystem/index.html",
     "main.073c9b0a.css.map": "/PolicyAdministrationSystem/static/css/main.073c9b0a.css.map",
-    "main.47b57a81.js.map": "/PolicyAdministrationSystem/static/js/main.47b57a81.js.map",
+    "main.b5026a1b.js.map": "/PolicyAdministrationSystem/static/js/main.b5026a1b.js.map",
     "787.f6fbed16.chunk.js.map": "/PolicyAdministrationSystem/static/js/787.f6fbed16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.47b57a81.js"
+    "static/js/main.b5026a1b.js"
   ]
 }
