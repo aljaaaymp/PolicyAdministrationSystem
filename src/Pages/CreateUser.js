@@ -81,7 +81,7 @@ export default function CreateUser() {
               //  swal("Your Account number is " + respid.id, "success");
               console.log("Account has been added");
               getAll();
-              Navigate("/");
+              Navigate("/PolicyAdministrationSystem");
 
             })
             .catch((err) => console.log(err));

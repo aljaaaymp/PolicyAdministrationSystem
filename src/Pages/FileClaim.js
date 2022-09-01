@@ -51,7 +51,7 @@ const FileClaim = (policyNumber1) => {
           .catch((err) => console.log(err));
       }, []);
   
-    Navigate("/");
+    Navigate("/PolicyAdministrationSystem");
   };
   return (
     <>

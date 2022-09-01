@@ -18,7 +18,7 @@ export default function App() {
       <BrowserRouter>
         <Appbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/PolicyAdministrationSystem" element={<Home />} />
           <Route path="/CreateUser" element={<CreateUser />} />
           <Route path="/SearchAccount" element={<SearchAccount />} />
           <Route path="/AddPolicy" element={<AddPolicy />} />

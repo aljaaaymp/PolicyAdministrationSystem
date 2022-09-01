@@ -119,7 +119,7 @@ const Vehicle = (accountNumber1) => {
     setFuel("");
     setColor("");
     setPurchasePrice("");
-    Navigate("/");
+    Navigate("/PolicyAdministrationSystem");
   };
   function getVehiclePriceFactor() {
     let vehiclePriceFactor;
