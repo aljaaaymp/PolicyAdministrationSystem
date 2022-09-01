@@ -12,38 +12,37 @@ function Footer() {
             <Grid item xs={12} sm={4} color={"black"}>
               <Box borderBottom={1}>Help</Box>
               <Box>
-                <Link href="/Home">Contact</Link>
+                <Link href="/PolicyAdministrationSystem">Contact</Link>
               </Box>
               <Box>
-                <Link href="/Home">Support</Link>
+                <Link href="/PolicyAdministrationSystem">Support</Link>
               </Box>
               <Box>
-                <Link href="/Home">Privacy</Link>
+                <Link href="/PolicyAdministrationSystem">Privacy</Link>
               </Box>
             </Grid>
             <Grid item xs={12} sm={4} color={"black"}>
               <Box borderBottom={1}>Account</Box>
               <Box>
-                <Link href="/Home">Login</Link>
+                <Link href="/PolicyAdministrationSystem">Login</Link>
               </Box>
               <Box>
-                <Link href="/Home">Register</Link>
+                <Link href="/PolicyAdministrationSystem">Register</Link>
               </Box>
             </Grid>
             <Grid item xs={12} sm={4} color={"black"}>
               <Box borderBottom={1}>Messages</Box>
               <Box>
-                <Link href="/Home">Backup</Link>
+                <Link href="/PolicyAdministrationSystem">Backup</Link>
               </Box>
               <Box>
-                <Link href="/Home">History</Link>
+                <Link href="/PolicyAdministrationSystem">History</Link>
               </Box>
               <Box>
-                <Link href="/Home">Roll</Link>
+                <Link href="/PolicyAdministrationSystem">Roll</Link>
               </Box>
             </Grid>
           </Grid>
-        
         </Container>
       </Box>
     </footer>
